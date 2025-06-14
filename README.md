@@ -8,7 +8,7 @@ This project develops a **Retrieval-Augmented Generation (RAG) system** that pro
 
 ## Project Overview
 
-Developed as part of the **IITM BS Diploma level subject, Tools in Data Science**, this project focuses on building a smart question-answering system. It demonstrates how to combine extensive data sources with advanced AI to deliver relevant information and direct source citations.
+Developed as part of the **IITM BS program**, specifically for the **Tools in Data Science subject** at the **Diploma level**, this project focuses on building a smart question-answering system. It demonstrates how to combine extensive data sources with advanced AI to deliver relevant information and direct source citations.
 
 ---
 
