@@ -5,18 +5,15 @@
       "src": "app.py",
       "use": "@vercel/python",
       "config": {
-        // This is crucial: tells Vercel to include the database file in the deployment package
         "includeFiles": ["knowledge_base.db"]
       }
     }
   ],
   "routes": [
     {
-      // This route will forward all incoming requests to your app.py
-      // Make sure your app.py defines routes for /query, /health, etc.
       "src": "/(.*)",
       "dest": "app.py"
     }
   ],
-  "outputDirectory": "build" // Optional, but good practice for clarity
+  "outputDirectory": "build"
 }
