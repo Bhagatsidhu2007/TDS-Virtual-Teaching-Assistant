@@ -1,17 +1,7 @@
 # TDS-Virtual-Teaching-Assistant
-
----
-
 This project develops a **Retrieval-Augmented Generation (RAG) system** that provides accurate, context-aware answers to user queries. It acts as an **AI-powered teaching assistant**, giving precise information from its knowledge base.
-
----
-
 ## Project Overview
-
 Developed as part of the **IITM BS program**, specifically for the **Tools in Data Science subject** at the **Diploma level**, this project focuses on building a smart question-answering system. It demonstrates how to combine extensive data sources with advanced AI to deliver relevant information and direct source citations.
-
----
-
 ## Key Features
 
 * **Smart Query Answering:** Responds to user questions by understanding intent and finding optimal answers.
